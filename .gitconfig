@@ -1,0 +1,13 @@
+[user]
+    name = Casey
+    email = hannah-rivasbus@users.noreply.github.com
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    rebase = true
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
